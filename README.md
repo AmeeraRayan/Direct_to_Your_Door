@@ -20,9 +20,9 @@ The Database class is a service class that contains static values and will conta
 
 - Map<Member,Delivery> ourLastDeliveries=new TreeMap<Member,Delivery>();
   The key will be the name of the subscriber, and the value is the delivery.
-  ## A short explanation:
+  #### A short explanation:
   In TreeMap there is a sorting from the smallest to the largest, if you enter numbers (Integer) for example, it will know how to sort, but if it is instances of a class, you must make sure to sort the class according to the value that you determine.
-  ## Pay attention:
+  #### Pay attention:
   That every time a subscriber orders a delivery it goes into ourLastDeliveries so that it overwrites the last delivery that was made. This is according to the principles of TreeMap.
 
 4. Two additional TreeMaps that always work simultaneously, one that contains the current value of countTree together with a customer name and the other contains the same number of countTree with a shipment of the same customer.

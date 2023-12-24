@@ -36,8 +36,9 @@ The Database class is a service class that contains static values and will conta
 
 2. **Subscription:**
 
-   -Allows the addition of subscription details to the manager's system.
-   -Provides functionality to delete a subscription using a subscription code.
+   - Allows the addition of subscription details to the manager's system.
+
+   - Provides functionality to delete a subscription using a subscription code.
 
 3. **Retrieve Deliveries by Customer Code:**
 
@@ -49,34 +50,35 @@ The Database class is a service class that contains static values and will conta
 
 5. **Delete Short Shipment:**
 
-   -It includes a brief shipment deletion form that utilizes a member code to remove the corresponding delivery from the system.
+   - It includes a brief shipment deletion form that utilizes a member code to remove the corresponding delivery from the system.
 
 6. **Show Details About Last Shipment**
 
-   -Entering a member code (the unique code)
+   - Entering a member code (the unique code)
 
-   -the system will display on the screen his last order and the details of the deliveries
-   which he ordered.
+   - The system will display on the screen his last order and the details of the deliveries
+     which he ordered.
 
 7. **Display specific area's delivery details**
 
-   -It shows us all the delivery details about a specific area within a TextArea.
+   - It shows us all the delivery details about a specific area within a TextArea.
 
 8. **Display All**
-   -Displaying all the members and deliveries within a TextArea .
+
+   - Displaying all the members and deliveries within a TextArea .
 
 9. **Specific Date About The Deliveries**
-   -By entering the date you want it will show you all the deliveries that are exiting this specific date within a JTable.
+   - By entering the date you want it will show you all the deliveries that are exiting this specific date within a JTable.
 10. **Submenu:**
 
 - Contains a MenuItem for:
-  -Displaying all short deliveries within a JTable.
-  -Displaying details of all subscribers who ordered short delivery within a TextArea.
-  -Listing all cities to which a short shipment was sent in the last 30 days.
+  - Displaying all short deliveries within a JTable.
+  - Displaying details of all subscribers who ordered short delivery within a TextArea.
+  - Listing all cities to which a short shipment was sent in the last 30 days.
 
 11. **Finish**
-    -finish and exit the system, the system will print an appropriate message.
-    -Exiting an administrator returns him to the main screen, so that if a new administrator enters, the details entered by the previous administrator are saved
+    - finish and exit the system, the system will print an appropriate message.
+    - Exiting an administrator returns him to the main screen, so that if a new administrator enters, the details entered by the previous administrator are saved
 
 ### Vice Administration
 

@@ -36,8 +36,8 @@ The Database class is a service class that contains static values and will conta
 
 2. **Subscription:**
 
-- Allows the addition of subscription details to the manager's system.
-- Provides functionality to delete a subscription using a subscription code.
+   -Allows the addition of subscription details to the manager's system.
+   -Provides functionality to delete a subscription using a subscription code.
 
 3. **Retrieve Deliveries by Customer Code:**
 

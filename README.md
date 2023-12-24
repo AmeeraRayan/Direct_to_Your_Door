@@ -75,7 +75,7 @@ which he ordered.
 11. **Finish**
     -finish and exit the system, the system will print an appropriate message.
 
-### Main Vice Administration Menu
+### Vice Administration
 
 1. **Retrieve Short Deliveries by Date:**
 

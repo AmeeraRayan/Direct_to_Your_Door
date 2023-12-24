@@ -46,8 +46,14 @@ which he ordered.
 
 9. **Specific Date About The Deliveries**
    -By entering the date you want it will show you all the deliveries that are exiting this specific date within a JTable.
+10. **Submenu:**
 
-10. **Finish**
+- Contains a MenuItem for:
+  - Displaying all short deliveries within a JTable.
+  - Displaying details of all subscribers who ordered short delivery within a TextArea.
+  - Listing all cities to which a short shipment was sent in the last 30 days.
+
+11. **Finish**
     -finish and exit the system, the system will print an appropriate message.
 
 ### Guidelines
@@ -62,3 +68,6 @@ which he ordered.
 <img src="photo2.png" alt="Alt Text" width="350" height="200">
 <img src="photo5.png" alt="Alt Text" width="350" height="200">
 <img src="photo6.png" alt="Alt Text" width="350" height="200">
+<img src="photo7.png" alt="Alt Text" width="350" height="200">
+<img src="photo8.png" alt="Alt Text" width="350" height="200">
+<img src="photo9.png" alt="Alt Text" width="350" height="200">

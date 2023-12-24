@@ -71,5 +71,5 @@ which he ordered.
 <img src="photo7.png" alt="Alt Text" width="350" height="200">
 <img src="photo8.png" alt="Alt Text" width="350" height="200">
 <img src="photo9.png" alt="Alt Text" width="350" height="200">
-<img src="photo10.png" alt="Alt Text" width="200" height="200">
-<img src="photo11.png" alt="Alt Text" width="350" height="200">
+<img src="photo10.png" alt="Alt Text" width="150" height="200">
+<img src="photo11.png" alt="Alt Text" width="150" height="200">

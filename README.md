@@ -8,6 +8,8 @@ The system caters to a spectrum of delivery categories, encompassing standard, e
 The main system consists of an array of managers, each responsible for subscribers in a specific region (north, center, or south). The system administrator has a username and password stored in variables within the administrator class.
 After logging in, the system will show a menu.
 
+## Database
+
 I decided to make a kind of "DataBase" for the system, for this purpose I built a class called DataBase.
 <br>
 The Database class is a service class that contains static values and will contain:
@@ -79,6 +81,43 @@ which he ordered.
 2. I made sure to use the toString/getters/setters methods and not to use public type variables.
 3. Pay attention when using the principle of inheritance and polymorphism and interfaces.
 4. Pay attention to the connections between the departments. For example, a connection between a delivery and a subscriber, or a connection between an administrator and a subscriber, etc.
+
+## Direct_to_Your_Door
+
+## How to Run
+
+To run the code, follow these steps:
+
+1. **Download the Code:**
+
+   - Clone or download the project ZIP file from the repository.
+
+2. **Extract the ZIP:**
+
+   - Extract the contents of the ZIP file to your preferred location.
+
+3. **Open in Eclipse:**
+
+   - Open Eclipse IDE.
+
+4. **Import Project:**
+
+   - Go to `File` > `Import`.
+   - Select `General` > `Existing Projects into Workspace`.
+   - Choose the extracted project folder as the root directory.
+   - Click `Finish`.
+
+5. **Build and Run:**
+
+   - Once the project is imported, right-click on the project in the `Project Explorer`.
+   - Select `Build Project` to compile the code.
+   - After building, right-click on the main class file.
+   - Choose `Run As` > `Java Application`.
+
+6. **GUI Display:**
+   - The GUI for "DeliveryForYou" should now be displayed.
+
+**Note:** Ensure you have Eclipse IDE and Java Development Kit (JDK) installed on your system.
 
 <img src="photo4.png" alt="Alt Text" width="350" height="200">
   <img src="photo3.png" alt="Alt Text" width="350" height="200">

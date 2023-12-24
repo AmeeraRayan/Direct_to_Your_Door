@@ -85,9 +85,14 @@ which he ordered.
 
    - Presents information on all members with more than 3 short deliveries.
 
-3. **Short Shipment Deletion Form:**
+3. **Short Form for Deleting Shipment**
 
-   - Provides a form for deleting short shipments.
+   - Provides a form for deleting short shipments using a subscription code.
+
+4. **Short Form for Adding Shipments**
+
+   - Provides a form for adding short shipments using a subscription code.
+   - Includes a button to save subscribers who ordered short deliveries along with delivery details in a text file.
 
 ### Guidelines
 

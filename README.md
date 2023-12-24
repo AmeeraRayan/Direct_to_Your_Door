@@ -19,6 +19,7 @@ The Database class is a service class that contains static values and will conta
 3. TreeMap of recent shipments ordered by subscribers.
 
 Map<Member,Delivery> ourLastDeliveries=new TreeMap<Member,Delivery>();
+<br>
 The key will be the name of the subscriber, and the value is the delivery.
 
 #### A short explanation:

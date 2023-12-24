@@ -14,6 +14,7 @@ After logging in, the system will show a menu.
 
 - Enables the addition of a manager to the system.
 - Enables the addition of a vice manager to the system.
+  <img src="photo3.png" alt="Alt Text" width="350" height="200">
 
 2.  **Subscription:**
 

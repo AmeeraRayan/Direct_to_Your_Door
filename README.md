@@ -34,13 +34,21 @@ After logging in, the system will show a menu.
 
 6. **Show Details About Last Shipment**
 
--
+-Entering a member code (the unique code) - the system will display on the screen his last order and the details of the deliveries
+which he ordered.
 
-7. **Submenu:**
-   - Contains a MenuItem for:
-     - Displaying all short deliveries within a JTable.
-     - Displaying details of all subscribers who ordered short delivery within a TextArea.
-     - Listing all cities to which a short shipment was sent in the last 30 days.
+7. **Display specific area's delivery details**
+
+-It shows us all the delivery details about a specific area within a TextArea.
+
+8. **Display All**
+   -Displaying all the members and deliveries within a TextArea .
+
+9. **Specific Date About The Deliveries**
+   -By entering the date you want it will show you all the deliveries that are exiting this specific date within a JTable.
+
+10. **Finish**
+    -finish and exit the system, the system will print an appropriate message.
 
 ### Guidelines
 

@@ -2,7 +2,7 @@
 
 <img src="photo1.png" alt="Alt Text" width="350" height="200">
 
-'Direct to Your Door :)' is a Java-implemented prototype created for the 'Shipping for You' company, designed to efficiently supervise and manage various types of deliveries.
+Direct to Your Door :) is a Java-implemented prototype created for the 'Shipping for You' company, designed to efficiently supervise and manage various types of deliveries.
 The system caters to a spectrum of delivery categories, encompassing standard, express, and business delivery modes.In addition , The system comprises members, each with their details, residential area (north, center, or south), and an array of deliveries of various types.
 
 The main system consists of an array of managers, each responsible for subscribers in a specific region (north, center, or south). The system administrator has a username and password stored in variables within the administrator class.

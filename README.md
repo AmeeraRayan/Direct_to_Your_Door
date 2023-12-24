@@ -149,3 +149,9 @@ To run the code, follow these steps:
 <img src="photo9.png" alt="Alt Text" width="350" height="200">
 <img src="photo10.png" alt="Alt Text" width="150" height="200">
 <img src="photo11.png" alt="Alt Text" width="150" height="200">
+<img src="photo11.png" alt="Alt Text" width="150" height="200">
+<img src="photo11.png" alt="Alt Text" width="150" height="200">
+<img src="photo12.png" alt="Alt Text" width="150" height="200">
+<img src="photo13.png" alt="Alt Text" width="150" height="200">
+<img src="photo14.png" alt="Alt Text" width="150" height="200">
+<img src="photo15.png" alt="Alt Text" width="150" height="200">

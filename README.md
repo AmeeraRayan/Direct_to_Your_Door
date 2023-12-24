@@ -31,10 +31,10 @@ The Database class is a service class that contains static values and will conta
 
 1. **Managers:**
 
-- Enables the addition of a manager to the system.
-- Enables the addition of a vice manager to the system.
+   - Enables the addition of a manager to the system.
+   - Enables the addition of a vice manager to the system.
 
-2.  **Subscription:**
+2. **Subscription:**
 
 - Allows the addition of subscription details to the manager's system.
 - Provides functionality to delete a subscription using a subscription code.
@@ -49,16 +49,18 @@ The Database class is a service class that contains static values and will conta
 
 5. **Delete Short Shipment:**
 
--It includes a brief shipment deletion form that utilizes a member code to remove the corresponding delivery from the system.
+   -It includes a brief shipment deletion form that utilizes a member code to remove the corresponding delivery from the system.
 
 6. **Show Details About Last Shipment**
 
--Entering a member code (the unique code) - the system will display on the screen his last order and the details of the deliveries
-which he ordered.
+   -Entering a member code (the unique code)
+
+   -the system will display on the screen his last order and the details of the deliveries
+   which he ordered.
 
 7. **Display specific area's delivery details**
 
--It shows us all the delivery details about a specific area within a TextArea.
+   -It shows us all the delivery details about a specific area within a TextArea.
 
 8. **Display All**
    -Displaying all the members and deliveries within a TextArea .
@@ -68,13 +70,13 @@ which he ordered.
 10. **Submenu:**
 
 - Contains a MenuItem for:
-  - Displaying all short deliveries within a JTable.
-  - Displaying details of all subscribers who ordered short delivery within a TextArea.
-  - Listing all cities to which a short shipment was sent in the last 30 days.
+  -Displaying all short deliveries within a JTable.
+  -Displaying details of all subscribers who ordered short delivery within a TextArea.
+  -Listing all cities to which a short shipment was sent in the last 30 days.
 
 11. **Finish**
     -finish and exit the system, the system will print an appropriate message.
-    - Exiting an administrator returns him to the main screen, so that if a new administrator enters, the details entered by the previous administrator are saved
+    -Exiting an administrator returns him to the main screen, so that if a new administrator enters, the details entered by the previous administrator are saved
 
 ### Vice Administration
 

@@ -75,6 +75,20 @@ which he ordered.
 11. **Finish**
     -finish and exit the system, the system will print an appropriate message.
 
+### Main Vice Administration Menu
+
+1. **Retrieve Short Deliveries by Date:**
+
+   - Retrieves all short deliveries on a specified date.
+
+2. **Presentation of Members with More Than 3 Short Deliveries:**
+
+   - Presents information on all members with more than 3 short deliveries.
+
+3. **Short Shipment Deletion Form:**
+
+   - Provides a form for deleting short shipments.
+
 ### Guidelines
 
 1. I made sure to give meaningful names.

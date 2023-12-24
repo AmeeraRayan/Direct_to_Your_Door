@@ -74,6 +74,7 @@ which he ordered.
 
 11. **Finish**
     -finish and exit the system, the system will print an appropriate message.
+    - Exiting an administrator returns him to the main screen, so that if a new administrator enters, the details entered by the previous administrator are saved
 
 ### Vice Administration
 

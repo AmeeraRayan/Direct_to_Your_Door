@@ -60,3 +60,5 @@ which he ordered.
 <img src="photo4.png" alt="Alt Text" width="350" height="200">
   <img src="photo3.png" alt="Alt Text" width="350" height="200">
 <img src="photo2.png" alt="Alt Text" width="350" height="200">
+<img src="photo5.png" alt="Alt Text" width="350" height="200">
+<img src="photo6.png" alt="Alt Text" width="350" height="200">

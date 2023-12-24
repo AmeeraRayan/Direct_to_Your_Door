@@ -52,10 +52,10 @@ which he ordered.
 
 ### Guidelines
 
-A. I made sure to give meaningful names.
-B. I made sure to use the toString/getters/setters methods and not to use public type variables.
-C. Pay attention when using the principle of inheritance and polymorphism and interfaces.
-D. Pay attention to the connections between the departments. For example, a connection between a delivery and a subscriber, or a connection between an administrator and a subscriber, etc.
+1. I made sure to give meaningful names.
+2. I made sure to use the toString/getters/setters methods and not to use public type variables.
+3. Pay attention when using the principle of inheritance and polymorphism and interfaces.
+4. Pay attention to the connections between the departments. For example, a connection between a delivery and a subscriber, or a connection between an administrator and a subscriber, etc.
 
 <img src="photo4.png" alt="Alt Text" width="350" height="200">
   <img src="photo3.png" alt="Alt Text" width="350" height="200">

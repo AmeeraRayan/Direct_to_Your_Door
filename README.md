@@ -106,6 +106,29 @@ That every time a subscriber orders a delivery it goes into ourLastDeliveries so
    - Provides a form for adding short shipments using a subscription code.
    - Includes a button to save subscribers who ordered short deliveries along with delivery details in a text file.
 
+## In all forms:
+
+adding managers, adding customers, adding regular and short deliveries, adding secondary managers, everything will be saved in the collections (including TreeMap, ArrayList and also in text files), so that each record (certain information that came from the form) will be saved in a separate line.
+The information within the text files will be saved so that there is a space between each data.
+
+### Retrieving the information
+
+Every time you connect to the system, there will be an automatic retrieval of information for all the information found in the files into ArrayLists and also the
+TreeMaps The information will be saved in the collections just like the last time we closed the system.
+
+### Important Buttons
+
+- The main admin form has the following buttons:
+  - A button to retrieve all the short deliveries that were on a certain date. The administrator enters the date into a form and the information is extracted from the appropriate file (not from an ArrayList) and displayed in a JTable.
+  - A button for retrieving all the regular and short deliveries of a customer whose code has been captured and displaying them in a JTable.
+    third.
+  - A button to display all the regular deliveries that were in the area that the manager is responsible for - and display them in a JTable.
+- The sub-admin form has the following buttons:
+  - Similar to the main manager, a button to retrieve all the short deliveries that were on a certain date. The administrator enters the date into a form and the information is extracted from the appropriate file and displayed in a JTable.
+  - A button to save all subscribers who ordered short deliveries together with the delivery details in a text file.
+    third.
+  - Next to the previous button there is a button that pulls from the same file all the customers who ordered at least 3 short deliveries.
+
 ### Guidelines
 
 1. I made sure to give meaningful names.
